@@ -2,7 +2,7 @@
 name: mlsharp-3d-viewer
 build:
   command: echo "Static site, no build required"
-  publish: /My
+   publish: .
 routes:
   - pattern: /
     zone: ""
